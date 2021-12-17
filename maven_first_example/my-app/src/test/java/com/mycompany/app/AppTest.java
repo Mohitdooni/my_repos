@@ -37,7 +37,7 @@ public class AppTest
     }
     public void testApp2()
     {
-        assertTrue( Flase );
+        assertTrue( true );
     }
     public void testApp3()
     {
